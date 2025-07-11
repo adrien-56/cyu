@@ -1,0 +1,9 @@
+tls-client==0.1.5
+colorama
+requests
+pyautogui
+keyboard
+wmi
+hashlib
+random
+datetime
